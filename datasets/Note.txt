@@ -1,0 +1,2 @@
+csv_url = "https://storage.hpai.bsc.es/datasets/raw/MetH-datasets/MetH-Medium.csv"
+data_url = "https://storage.hpai.bsc.es/datasets/raw/MetH-datasets/MetH-Medium_data.tar.gz"
